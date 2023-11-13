@@ -1,0 +1,2 @@
+# CS:GO Server Count
+Made this when CS:GO was closing and I didnt know how many servers cs left before they close. I was refreshing the page but you can make this much much better, I just wanted to parse the API as much as I can.
